@@ -1,7 +1,7 @@
 import { defineConfig } from 'umi';
 
 export default defineConfig({
-  title: '关于李志的记忆',
+  title: '李志 BB 音乐作品播放器',
   nodeModulesTransform: {
     type: 'none',
   },

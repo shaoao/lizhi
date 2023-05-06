@@ -86,10 +86,10 @@ export default function Layout({ children, location }) {
         items: [
           {
             id: 'developer',
-            children: 'Code ShaoAo',
+            children: 'ShaoAo',
             icon: 'CodeBracketIcon',
             target: '_blank',
-            href: '',
+            href: 'https://github.com/turkyden/lizhi-app',
           },
           // {
           //   id: 'star',

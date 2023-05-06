@@ -30,7 +30,7 @@ function Star() {
             </div>
 
             <div className="w-full kswz">
-              本站是一个珍藏了李志音乐作品集、专门用来收听李志(逼哥)的在线音乐播放器，收集了互联网中李志(逼哥)先生的全部歌曲(几乎全部覆盖),并且提供了免费下载服务，我们不能失去信仰！！
+              本站是一个专门用来收听李志(逼哥)的音乐平台，收集了李志(逼哥)先生的全部歌曲(几乎全部覆盖)
             </div>
             <div className="w-full kswz">
               如果您还想听什么歌曲，可以
@@ -44,14 +44,8 @@ function Star() {
               我。
             </div>
             <div className="w-full kswz">
-              我是一个热爱音乐的人，喜欢很多乐队，当然也喜欢很多民谣，比如：李志。李志的音乐很好听，因为它不单纯追求商业成功，而是充满了真实、坦率、勇敢和反叛的元素。他有着个人独特的音乐风格和歌曲创作。李志的声音银色独特还很深情，在音乐中表现出人性光辉和沧桑之感，是我喜欢的原因。
-            </div>
-            <div className="w-full kswz">
               音乐版权所有权归
               <span className="text-green-500">【李志先生】</span>所有
-            </div>
-            <div className="w-full kswz">
-              2023.5.6<span className="text-green-500"> ShaoAo </span> Edit
             </div>
           </div>
         </div>

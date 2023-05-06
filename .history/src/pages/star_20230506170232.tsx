@@ -50,9 +50,6 @@ function Star() {
               音乐版权所有权归
               <span className="text-green-500">【李志先生】</span>所有
             </div>
-            <div className="w-full kswz">
-              2023.5.6<span className="text-green-500"> ShaoAo </span> Edit
-            </div>
           </div>
         </div>
       </div>

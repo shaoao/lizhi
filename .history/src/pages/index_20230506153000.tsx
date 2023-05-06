@@ -41,7 +41,7 @@ export default function IndexPage() {
   return (
     <>
       <div className="text-3xl font-bold">专辑</div>
-      <div className="text-xl py-4">Hi 朋友，欢迎来听</div>
+      <div className="text-xl py-4">Hi 朋友，今日为你推荐</div>
 
       <div className="flex flex-wrap">
         <Link className="mr-6 mb-8 hover:text-white text-white" to={`/about`}>

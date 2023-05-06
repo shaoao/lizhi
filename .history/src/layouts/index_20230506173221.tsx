@@ -86,7 +86,7 @@ export default function Layout({ children, location }) {
         items: [
           {
             id: 'developer',
-            children: 'Code ShaoAo',
+            children: 'Edit ShaoAo',
             icon: 'CodeBracketIcon',
             target: '_blank',
             href: '',

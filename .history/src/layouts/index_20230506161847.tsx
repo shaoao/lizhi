@@ -86,10 +86,10 @@ export default function Layout({ children, location }) {
         items: [
           {
             id: 'developer',
-            children: 'Code ShaoAo',
+            children: 'ShaoAo',
             icon: 'CodeBracketIcon',
             target: '_blank',
-            href: '',
+            href: 'https://github.com/turkyden/lizhi-app',
           },
           // {
           //   id: 'star',
@@ -107,7 +107,7 @@ export default function Layout({ children, location }) {
     <div className="w-screen h-screen bg-black text-white pl-64">
       <div className="fixed top-0 left-0 w-64 h-screen p-10 pb-0 flex flex-col justify-between">
         <div>
-          <h2 className="text-white text-3xl mb-4 font-bold ali"> 李 志 </h2>
+          <h2 className="text-white text-3xl mb-4 font-bold">李志</h2>
 
           <div
             onClick={() => setOpen(true)}
@@ -140,7 +140,7 @@ export default function Layout({ children, location }) {
               </svg>
               Search...
               <span className="ml-auto pl-3 flex-none text-xs font-semibold">
-                Ctrl+K
+                ⌘K
               </span>
             </div>
           </div>
@@ -215,9 +215,7 @@ export default function Layout({ children, location }) {
         {children}
       </div>
       <ReactJkMusicPlayer {...options} />
-
-      {/* 右上角的github */}
-      {/* <a
+      <a
         id="github-link"
         style={{
           position: 'absolute',
@@ -244,7 +242,7 @@ export default function Layout({ children, location }) {
             fill="currentColor"
           ></path>
         </svg>
-      </a> */}
+      </a>
 
       <CommandPalette
         onChangeSearch={setSearch}

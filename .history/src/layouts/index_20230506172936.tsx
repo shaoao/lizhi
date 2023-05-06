@@ -86,10 +86,10 @@ export default function Layout({ children, location }) {
         items: [
           {
             id: 'developer',
-            children: 'Code ShaoAo',
+            children: 'ShaoAo',
             icon: 'CodeBracketIcon',
             target: '_blank',
-            href: '',
+            href: '感谢您的使用',
           },
           // {
           //   id: 'star',

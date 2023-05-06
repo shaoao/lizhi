@@ -652,11 +652,10 @@ video {
 }
 
 .w-full {
-  font-size: 20px;
+  font-size: 30px;
   width: 100%;
 }
-
-.kswz{
+.wz{
   margin-top: 100px;
 }
 
@@ -1046,9 +1045,6 @@ video {
 
 .tracking-widest {
   letter-spacing: 0.1em;
-}
-.ali {
-  text-align: center;
 }
 
 .text-white {
